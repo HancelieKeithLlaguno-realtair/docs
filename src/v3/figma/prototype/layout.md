@@ -38,7 +38,7 @@ Inside this Announcement group below (Parent) we want:
 
 -   The Purple background to stretch full width and always touch the top
 -   The Announcement Text to always stay centered and 15px from the top
--   The Close icon to always be 17 pixels from the left corner
+-   The Close icon to always be 17 pixels from the right corner
 -   The entire Announcement Group (Parent) to stretch when its parent (Our Story frame) is stretched
 
 
